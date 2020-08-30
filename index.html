@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+        integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap" rel="stylesheet">
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"
+        integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="query.js"></script>
+    <!-- <script src="ajax.js"></script> -->
+
+    <!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+    <link rel="stylesheet" type="text/css" href="boot.css">
+</head>
+<title>Registration Forms</title>
+
+<body style="background-color: rgb(160, 148, 180);">
+
+    <div id="fb-root"></div>
+    <script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v8.0&appId=741859306610791&autoLogAppEvents=1"
+        nonce="iZpJHR3K"></script>
+
+    <div class="container px-3 my-3 col-md-12 rounded border text-center"
+        style="background-color: rgb(212, 200, 233); width : 750px; box-shadow : 0 0 10px grey ;">
+        <h2 class="container p-3 my-3 border font-weight-bold " style="background-color: rgb(160, 148, 180);">Welcome to
+            the Registration Portal</h2>
+        <input type="button" class="btn btn-primary shadow p-3 mb-5 rounded" id="newForm" value="New Form">
+        <br>
+        <!-- <div class="fb-login-button" data-size="large" data-button-type="continue_with" data-layout="rounded"
+            data-auto-logout-link="false" data-use-continue-as="true" data-width=""></div> -->
+
+        <p id="numb"></p>
+        <h4>
+            <table class="container text-center "
+                style="box-shadow: 0 0 10px grey ;background-color: rgb(195, 197, 209);" id="tbl"></table>
+        </h4>
+
+        <br><br>
+
+        <br><br>
+
+        <h4>
+            <p style="background: white;" id="viewTbl"></p>
+        </h4>
+
+
+
+
+        <div class="form-group col-md-6 text-center" id="view1" style=" display: none">
+            <input class="form-control text-right" type="hidden" id="id">
+            First Name <input class="form-control text-center" type="text" id='fname'><br>
+            Last Name <input class="form-control text-center" type="text" id='lname'><br>
+            DOB <input class="form-control text-center" type="text" id='dob'><br>
+            E-mail <input class="form-control text-center" type="text" id="email"><br>
+            Current House Number <input class="form-control text-center" type="text" id='thouseNumber'><br>
+            Current Street <input class="form-control text-center" type="text" id='tstreet'><br>
+            Current District <input class="form-control text-center" type="text" id='tdistrictName'><br>
+            Current State <input class="form-control text-center" type="text" id='tstate'><br>
+            Current Country <input class="form-control text-center" type="text" id='tcountry'><br>
+            Current Pin Code <input class="form-control text-center" type="text" id='tpinCode'><br>
+            Permanent House Number <input class="form-control text-center" type="text" id='phouseNumber'><br>
+            Permanent Street <input class="form-control text-center" type="text" id='pstreet'><br>
+            Permanent District <input class="form-control text-center" type="text" id='pdistrictName'><br>
+            Permanent State <input class="form-control text-center" type="text" id='pstate'><br>
+            Permanent Country <input class="form-control text-center" type="text" id='pcountry'><br>
+            Permanent Pin Code <input class="form-control text-center" type="text" id='ppinCode'><br>
+            Contact Number <input class="form-control text-center" type="text" id='contact'><br>
+            Educational Qualification <input class="form-control text-center" type="text" id='eduQual'><br>
+            Languages Known <input class="form-control text-center" type="text" id='langKno'><br>
+            Father's Name <input class="form-control text-center" type="text" id='fathername'><br>
+            Mother's Name <input class="form-control text-center" type="text" id='mothername'><br>
+            <!-- Marriage Date <input class="form-control text-center" type="text" id='marday'><br>
+        Spouse Name <input class="form-control text-center" type="text" id='spouse'><br> -->
+            <div class="radio">
+
+                <label for="maritalstats">Marital Status :</label><br>
+                <input type="radio" id="single" name="maritalstats" class="mb-3 mr-3"><label class="mb-3 mr-3"> Single
+                </label>
+                <input type="radio" id="married" name="maritalstats" class="mb-3 mr-3"><label class="mb-3 mr-3"> Married
+                </label>
+                <br>
+            </div>
+
+            <div class="form-group col-md-14 text-center form-responsive" id="in">
+                <label for="marday">Marriage Date</label><br>
+                <input class="form-control text-center" type="date" id="marday"><br>
+                <label for="namespouse">Name of the Spouse</label><br>
+                <input class="form-control text-center" type="text" id="spouse"><br>
+            </div>
+            <button type="button" class="btn btn-success btn-md mb-2 mr-2"
+                onclick="update(document.getElementById('id').value)">Update</button>
+            <!-- <div class="spinner-border" role="status">
+                <span class="sr-only">Loading...</span>
+              </div> -->
+
+        </div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,59 @@
+select { margin-left : 40px; }
+
+input { margin-left: 40px; }
+
+input[type=number]{
+    -moz-appearance: textfield;}
+
+input[type= button]{
+    cursor: pointer;
+    color: white;
+    margin-left: 900px;
+    background-color: rgb(187, 0, 109);
+    font-size: 30px;
+    width: 200px;
+    height: 70px;
+}
+
+la { padding-left: 5%; 
+    font-size: 15px;}
+
+label { margin-left: 40px;
+	font-size: 20px;}
+
+legend {font-size:15px;
+text-align: center;}
+
+legend1 {font-size:15px;
+text-align: center;}
+
+form { margin-left: 750px;
+       margin-right: 0px;
+    }
+body {
+    background-image: url('image1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover ;
+    
+}
+
+table, tr , td, th{
+    margin-left: 60px;
+    border: 1px solid black;
+  /*   padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+ */
+}
+h4{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 27px;
+}
+button{
+    font-size: 20px;
+}
