@@ -1,0 +1,3 @@
+ssh root@server-ip // login as root into server
+
+iptables -A INPUT -s IP-ADDRESS -j DROP //add a rule into the rule table by adding ip address, -A for ADD, 

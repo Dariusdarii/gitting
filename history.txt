@@ -1,0 +1,1000 @@
+  210  google chrome info.php
+  211  google-chrome info.php
+  212  where is info.php
+  213  whereis info.php
+  214  google-chrome home/info.php
+  215  clear
+  216  code mysql
+  217  open mysql
+  218  mysql
+  219  sudo mysql
+  220  sudo ufw enable
+  221  sudo ufw enable mysql
+  222  sudo a2dissite 000-default.conf
+  223  sudo systemctl reload apache2
+  224  sudo vim test.php
+  225  sudo vim example.com.conf
+  226  sudo a2ensite example.com.conf
+  227  sudo systemctl reload apache2
+  228  mkdir -p help
+  229  clear
+  230  -p help
+  231  help mkdir -p
+  232  man -p
+  233  man --help
+  234  clear
+  235  ls -la
+  236  id -nG
+  237  clear
+  238  sudo mkdir -p /var/www/example.com/public_html
+  239  suddo chown -R anto /var/www/example.com/public_html
+  240  sudo chown -R anto /var/www/example.com/public_html
+  241  sudo chmod -R 755 /var/www
+  242  sudo vim /var/www/example.com/public_html/index.html
+  243  sudo cp /etc/apache2/sites-available/default /etc/apache2/sites-available/example.com
+  244  sudo cp /etc/apache2/sites-available/ /etc/apache2/sites-available/example.com
+  245  sudo cp /etc/apache2/sites-available/default /etc/apache2/sites-available/example.com
+  246  sudo cp /etc/apache2/sites-available/default /etc/apache2/sites-available/example.com
+  247  sudo cp /etc/apache2/sites-available/000-default.conf /etc/apache2/sites-available/example.com.conf
+  248  sudo vim /etc/apache2/sites-available/example.com
+  249  DocumentRoot /var/www/example.com/public_html
+  250  sudo vim /etc/apache2/sites-available/example.com
+  251  sudo a2ensite example.com
+  252  sudo service apache2 restart
+  253  vim /etc/hosts
+  254  sudo a2dissite 000-default.conf
+  255  sudo service apache2 restart
+  256  sudo a2ensite example.com
+  257  sudo service apache2 restart
+  258  sudo vim /etc/apache2/sites-available/example.com
+  259  sudo systemctl reload apache2
+  260  vim /etc/hosts
+  261  ping example.com
+  262  sudo nano /etc/hosts
+  263  ping example.com
+  264  sudo nano /etc/apache2/sites-available/example.com.conf 
+  265  ls /var/www/html/
+  266  sudo nano /etc/apache2/sites-available/example.com.conf 
+  267  sudo nano /etc/hosts
+  268  ping training.localhost.com
+  269  ls /var/www/html/
+  270  cat /var/www/html/index.html 
+  271  clear
+  272  php info.php
+  273  sudo systemctl reload apache2
+  274  sudo a2dissite 000-default.conf
+  275  sudo tail -f /var/www/example.com/error.log
+  276  clear
+  277  php -m
+  278  git status
+  279  mkdir .gitignore
+  280  ls
+  281  cat .gitignore
+  282  vim .gitignore
+  283  sudo systemctl start mysql
+  284  sudo systemctl enable mysql
+  285  sudo mysql -u root
+  286  mysql -u root
+  287  sudo mysql
+  288  mysql -u root -p
+  289  clear
+  290  php composer
+  291  php composer install
+  292  clear
+  293  php composer.php
+  294  clear
+  295  sudo apt-get update
+  296  sudo apt-get install curl
+  297  sudo curl -s https://getcomposer.org/installer | php
+  298  sudo mv composer.phar /usr/local/bin/composer
+  299  php composer.phar
+  300  composer
+  301  php composer.phar install
+  302  composer require
+  303  ls
+  304  cat composer.json 
+  305  composer require symfony/polyfill-mbstring
+  306  ld
+  307  ls
+  308  cat composer.kj
+  309  cat composer.json 
+  310  composer require symfony/symfony
+  311  composer require symfony/console
+  312  cat composer.json 
+  313  composer require symfony/finder
+  314  cat
+  315  cat composer.json
+  316  ls
+  317  composer remove
+  318  composer remove symfony/finder
+  319  cat composer.json
+  320  composer update symfony/finder
+  321  composer install symfony/finder
+  322  composer require symfony/finder
+  323  composer update symfony/finder
+  324  clear
+  325  composer install
+  326  cat composer.json
+  327  composer init
+  328  vim hello.php
+  329  cat composer.json
+  330  vim composer.json
+  331  composer install
+  332  composer update
+  333  composer install
+  334  ls
+  335  composer
+  336  php --version
+  337  ls
+  338  cd vendor
+  339  ls
+  340  cd
+  341  vim hello.php
+  342  php hello.php
+  343  vim composer.json
+  344  git clone https://gitlab.knackforge.com/knackforge/traininig/antoleandarius.git
+  345  git clone git@gitlab.knackforge.com:knackforge/traininig/antoleandarius.git
+  346  cd antoleandarius.git
+  347  sudo apt-get install visualcodeeditor
+  348  clear
+  349  snap changes
+  350  snap abort 5
+  351  git status
+  352  git checkout -b task/anto/htmlform/TBT-14
+  353  git status
+  354  git add /home/anto/Desktop/Dari/
+  355  git commit -m ""
+  356  git commit -m "html form"
+  357  git push -u origin task/anto/htmlform/TBT-14
+  358  cd antoleandarius
+  359  ls
+  360  cddari
+  361  cd dari
+  362  cd Dari
+  363  ls
+  364  clear
+  365  cd ..
+  366  clear
+  367  cd
+  368  clear
+  369  mv antoleandarius /../var/www/example.com
+  370  sudo mv antoleandarius /../var/www/example.com
+  371  cd var/www/example.com
+  372  cd /../var/www/example.com
+  373  rm public_html
+  374  cd
+  375  cd /etc/apache2/sites-enabled
+  376  sudo vim example.com.conf
+  377  sudo systemctl restart apache2
+  378  sudo vim example.com.conf
+  379  sudo systemctl restart apache2
+  380  git status
+  381  cd /var/www/example.com/antoleandarius
+  382  gitstatus
+  383  git status
+  384  git checkout task/anto/htmlform/TBT-14
+  385  cd
+  386  git checkout task/anto/htmlform/TBT-14
+  387  git add /var/www/example.com/antoleandarius/
+  388  git add /var/www/example.com/antoleandarius
+  389  clear
+  390  git status
+  391  git add /../var/www/example.com/antoleandarius
+  392  git status
+  393  cd Public/
+  394  cd training/
+  395  git status
+  396  git branch
+  397  git fetch
+  398  code.
+  399  code .
+  400  git checkout task/anto/htmlform/TBT-14
+  401  git add
+  402  git add /../training/antoleandarius/
+  403  git add antoleandarius/
+  404  git add /antoleandarius/
+  405  ls
+  406  git add Dari
+  407  git commit -m "30-7"
+  408  git push -u origin task/anto/htmlform/TBT-14
+  409  npm i moment
+  410  npm -version
+  411  clear
+  412  sudo apt-get install moment.js
+  413  sudo apt-get install node.js
+  414  npm install moment.js
+  415  node -version
+  416  node --version
+  417  npm -v
+  418  sudo apt-get install nodejs
+  419  node -v
+  420  npm -v
+  421  sudo apt install  npm
+  422  npm -v
+  423  node -v
+  424  npm install moment --save
+  425  npm install moment
+  426  npm install moment --save
+  427  npm i moment
+  428  npm --v
+  429  node -v
+  430  npm i moment
+  431  sudo vim example.com.conf
+  432  sudo systemctl apache2 restart
+  433  sudo systemctl restart apache2
+  434  sudo vim example.com.conf
+  435  sudo systemctl restart apache2
+  436  clear
+  437  git status
+  438  cd
+  439  git status
+  440  clear
+  441  rm example.com.conf.swp
+  442  sudo vim 000-default.conf
+  443  sudo systemctl restart apache2
+  444  sudo vim 000-default.conf
+  445  sudo systemctl restart apache2
+  446  sudo systemctl restart apache2
+  447  sudo vim apache2.conf
+  448  sudo systemctl restart apache2
+  449  sudo vim apache2.conf
+  450  sudo systemctl restart apache2
+  451  sudo vim example.com.conf
+  452  sudo systemctl restart apache2
+  453  sudo vim example.com.conf
+  454  sudo systemctl restart apache2
+  455  sudo vim default-ssl.conf
+  456  sudo systemctl restart apache2
+  457  git status
+  458  git commit -m "31-7"
+  459  cd Darii
+  460  cd Dari
+  461  git commit -m "31-7"
+  462  cd..
+  463  cd \..
+  464  git commit -m "31-7"
+  465  git push -u origin task/anto/htmlforms/TBT-14
+  466  clear
+  467  cd Dari
+  468  git status
+  469  clear
+  470  cd ..
+  471  git add /../Dari
+  472  git statuss
+  473  git status
+  474  git push -u origin task/anto/htmlform/TBT-14
+  475  git add /../Dari
+  476  git add /home/Public/training/Dari
+  477  git add /home/anto/Public/training/Dari
+  478  git commit -m "31-7"
+  479  git push -u originhttps://www.e2enetworks.com/help/knowledge-base/how-to-block-ip-address-on-linux-server/ task/anto/htmlform/TBT-14
+  480  sudo vim example.com.conf
+  481  sudo systemctl restart apache2
+  482  sudo vim example.com.conf
+  483  sudo systemctl restart apache2
+  484  sudo vim apache2.conf
+  485  sudo systemctl restart apache2
+  486  code index.html
+  487  sudo systemctl restart apache2
+  488  sudo vim apache2.conf
+  489  sudo systemctl restart apache2
+  490  sudo vim apache2.conf
+  491  sudo systemctl restart apache2
+  492  sudo vim example.com.conf
+  493  sudo systemctl restart apache2
+  494  sudo vim example.com.conf
+  495  sudo systemctl restart apache2
+  496  sudo vim example.com.conf
+  497  cd
+  498  sudo systemctl restart apache2
+  499  cd /../sites-available
+  500  cd /sites-available
+  501  sudo vim example.com.conf
+  502  sudo systemctl restart apache2
+  503  sudo vim apache2.conf
+  504  sudo systemctl restart apache2
+  505  sudo vim apache2.conf
+  506  sudo systemctl restart apache2
+  507  sudo nano /etc/apache2/sites-enabled/example.com.conf 
+  508  sudo nano /etc/apache2/apache2.conf 
+  509  sudo service apache2 restart
+  510  mkdir .gitignore
+  511  ls
+  512  git status
+  513  git add /home/anto/Public/training/Dari
+  514  git commit -m "Complete code base - completed"
+  515  git push -u origin task/anto/htmlform/TBT-14
+  516  sudo apt-get install phpmyadmin
+  517  sudo apt-get uninstall phpmyadmin
+  518  dpkg --list|grep -i 'phpmyadmin'
+  519  dpkg --list|grep -i phpmyadmin
+  520  sudo apt-get remove myphpadmin
+  521  sudo apt-get remove purge myphpadmin
+  522  sudo apt-get --purge remove myphpadmin
+  523  sudo apt-get remove phpmyadmin
+  524  es-chec
+  525  es-check
+  526  git status
+  527  git checkout -b task/anto/crudoper/TBT-48
+  528  git add /home/anto/Public/training/Dari
+  529  git status
+  530  git commit -m "10-8 crud operations"
+  531  git push -u origin task/anto/crudoper/TBT-48
+  532  git status
+  533  git add /home/anto/Public/training/Dari
+  534  git commit -m "11-8 completed crud operations"
+  535  git push -u origin task/anto/crudoper/TBT-48
+  536  git add /home/anto/Public/training/Dari/
+  537  git commit -m "11-8 completed crud operations"
+  538  git push -u origin task/anto/crudoper/TBT-48
+  539  git status
+  540  git checkout -b task/anto/crudoper/TBT-48
+  541  git push -u origin task/anto/crudoper/TBT-48
+  542  npm -v
+  543  npm install jquery
+  544  jquery -v
+  545  jquery -version
+  546  clear
+  547  sudo apt-get update -y
+  548  sudo apt-get install -y libjs-jquery
+  549  jquery -version
+  550  clear
+  551  git status
+  552  git checkout -b task/anto/JStoJQ/TBT-73
+  553  git add /home/anto/Public/training/Dari/
+  554  git status
+  555  git add /home/anto/Public/training/Dari/
+  556  git status
+  557  git commit -m "13-8 JS to Jquery"
+  558  git push -u origin task/anto/JStoJQ/TBT-73
+  559  php --v
+  560  php --version
+  561  mysql -version
+  562  sudo mysql -version
+  563  clear
+  564  mysql -v
+  565  mysql -V
+  566  git status
+  567  git checkout -b task/anto/bootstrap/TBT-30
+  568  git add /home/anto/Public/training/Dari
+  569  git commit -m "bootstrap styling"
+  570  git push -u origin task/anto/bootstrap/TBT-30
+  571  php -v
+  572  phpmyadmin
+  573  phpmyadmin -v
+  574  sudo apt-get install phpmyadmin
+  575  phpmyadmin -v
+  576  vi mysqld.cnf
+  577  sudo service mysql restart
+  578  mysql -u root -p
+  579  sudo vi mysqld.cnf
+  580  sudo vi mysql.cnf
+  581  sudo service mysql restart
+  582  mysql -u root -p
+  583  sudo vi mysql.cnf
+  584  sudo service mysql restart
+  585  mysql -u root -p
+  586  sudo vi mysqld.cnf
+  587  sudo -u root -p
+  588  mysql -u root -p
+  589  sudo service mysql restart
+  590  mysql -u root -p
+  591  mysql -u root -p
+  592  clear
+  593  mysql -u root -p
+  594  sudo mysql -u root -p
+  595  sudo apt-get remove --purge mysql
+  596  sudo apt-get remove --purge mysql*
+  597  sudo apt update
+  598  sudo apt install mysql-server
+  599  sudo mysql_secure_installation
+  600  knackforge
+  601  sudo mysql_secure_installation
+  602  mysql -u root -p
+  603  clear
+  604  mysql -u root -p
+  605  CLEAR
+  606  clear
+  607  mysql -u root -p
+  608  sudo service bluetooth restart
+  609  sudo apt-get remove unity-control-center
+  610  sudo apt autoremove
+  611  sudo apt-get install unity-control-center
+  612  sudo service bluetooth restart
+  613  mysql -u root -p
+  614  git status
+  615  git checkout -b task/anto/ajaxsql/TBT-74
+  616  git add /home/anto/Public/training/Dari
+  617  git commit -m "mysql and Ajax"
+  618  git push -u origin task/anto/ajaxsql/TBT-74
+  619  mysql -u root -p
+  620  ubuntu -version
+  621  ubuntu --version
+  622  $ cat /etc/os-release
+  623  cat /etc/os-release
+  624  mysql -u root -p
+  625  sudo vim default-ssl.conf
+  626  sudo systemctl apahttps://www.e2enetworks.com/help/knowledge-base/how-to-block-ip-address-on-linux-server/che2 restart
+  627  sudo systemctl restart apache2
+  628  sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/apache-selfsigned.key -out /etc/ssl/certs/apache-selfsigned.crt
+  629  sudo vim default-ssl.conf
+  630  sudo systemctl restart apache2
+  631  sudo vim default-ssl.conf
+  632  sudo systemctl restart apache2
+  633  sudo systemctl status apache2
+  634  sudo systemctl restart apache2
+  635  sudo vim default-ssl.conf
+  636  sudo systemctl restart apache2
+  637  sudo vim example.com.conf
+  638  sudo systemctl restart apache2
+  639  sudo vim default-ssl.conf
+  640  sudo systemctl restart apache2
+  641  sudo vim example.com.conf
+  642  sudo systemctl restart apache2
+  643  sudo systemctl status apache2
+  644  apache2ctl configtest
+  645  sudo apt update
+  646  sudo apt install openssh-server
+  647  openssl version
+  648  sudo lsof -iTCP -sTCP:LISTEN -P
+  649  sudo systemctl status apache2
+  650  sudo ufw status
+  651  sudo ufw app list
+  652  sudo ufw allow 'Apache Full'
+  653  sudo ufw delete allow 'Apache'
+  654  sudo ufw status
+  655  sudo a2enmod ssl
+  656  sudo a2enmod headers
+  657  sudo a2ensite default-ssl
+  658  sudo a2enconf ssl-params
+  659  sudo apache2ctl configtest
+  660  sudo systemctl restart apache2
+  661  sudo systemctl status apache2.service
+  662  sudo systemctl status apache2
+  663  sudo systemctl restart apache2
+  664  journalctl | tail
+  665  sudo systemctl restart apache2
+  666  journalctl -xe
+  667  sudo systemctl restart apache2
+  668  sudo vim example.com.conf
+  669  ls
+  670  sudo vim default-ssl.conf
+  671  sudo vim example.com.conf
+  672  sudo systemctl restart apache2
+  673  sudo nano default-ssl.conf
+  674  sudo nano 000-default.conf 
+  675  sudo nano example.https://www.e2enetworks.com/help/knowledge-base/how-to-block-ip-address-on-linux-server/com.conf 
+  676  sudo nano /etc/hosts
+  677  sudo service apache2 restart 
+  678  journalctl -xe
+  679  sudo nano /etc/hosts
+  680  sudo service apache2 restart 
+  681  journalctl -xe
+  682  sudo service apache2 restart 
+  683  journalctl -xe
+  684  sudo nano /etc/apache2/sites-enabled/default-ssl.conf 
+  685  ls /etc/ssl/certs/
+  686  cat default-ssl.conf
+  687  sudo apache2ctl configtest
+  688  curl -v https://training.localhost.com
+  689  curl -v http://training.localhost.com
+  690  curl -v https://training.localhost.com
+  691  sudo ufw status
+  692  apt install opnssh
+  693  apt install openssh
+  694  sudo apt install openssh
+  695  sudo a2ensite default-ssl
+  696  udo a2enconf ssl-params
+  697  sudo a2enconf ssl-params
+  698  cat /etc/ssl/certs/apache-selfsigned.crt
+  699  sudo nano /etc/hosts
+  700  ls -la
+  701  sudo mv example.com.conf 000-default.conf 
+  702  sudo sevice apache2 restart
+  703  sudo service apache2 restart
+  704  cat 000-default.conf 
+  705  sudo nano 000-default.conf 
+  706  sudo service apache2 restart
+  707  journalctl -xe
+  708  sudo tail -f /var/log/apache2/error.log
+  709  sudo nano default-ssl.conf
+  710  sudo mv default-ssl.conf default-ssl.confback
+  711  sudo service apache2 restart 
+  712  sudo nano 000-default.conf 
+  713  sudo service apache2 restart 
+  714  sudo nano 000-default.conf 
+  715  ls ../sites-enabled/
+  716  ln -s [target file] [Symbolic filename]
+  717  sudo ln -s 000-default.conf ../sites-enabled/000-default.conf
+  718  sudo service apache2 restart 
+  719  ls ../sites-enabled/
+  720  cat ../sites-enabled/000-default.conf 
+  721  ls
+  722  cd ../sites-enabled/
+  723  ls -la
+  724  sudorm -rf 000-default.conf
+  725  sudo rm -rf 000-default.conf
+  726  sudo ln -s 000-default.conf ../sites-available/000-default.conf
+  727  cd ../sites-available/
+  728  ls -la
+  729  mv 000-default.conf ../sites-enabled/
+  730  sudo mv 000-default.conf ../sites-enabled/
+  731  cd ../sites-enabled/
+  732  ls -la
+  733  sudo ln -s 000-default.conf ../sites-available/000-default.conf
+  734  ls -la
+  735  sudo nemo
+  736  sudo nautilus
+  737  cat /etc/ssl/private/apache-selfsigned.key
+  738  sudo cat /etc/ssl/private/apache-selfsigned.key
+  739  sudo nano /etc/apache2/apache2.conf 
+  740  sudo service apache2 restart 
+  741  sudo nano 000.default.conf 
+  742  sudo service apache2 restart 
+  743  journalctl -xe
+  744  sudo tail -f /var/log/apache2/error.log
+  745  ls /home/anto/Public/training/Dari
+  746  sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/apache-selfsigned.key -out /etc/ssl/certs/apache-selfsigned.crt
+  747  sudo ufw allow 443
+  748  sudo ufw allow https
+  749  sudo a2ensite example.com.conf
+  750  sudo systemctl restart apache2
+  751  sudo nano /etc/apache2/conf-available/ssl-params.conf
+  752  sudo vim /etc/apache2/conf-available/ssl-params.conf
+  753  sudo cp /etc/apache2/sites-available/default-ssl.conf /etc/apache2/sites-available/default-ssl.conf.bak
+  754  sudo vim /etc/apache2/sites-available/default-ssl.conf
+  755  sudo vim /etc/apache2/sites-available/example.com.conf
+  756  sudo ufw app list
+  757  sudo ufw status
+  758  sudo ufw allow 'Apache Full'
+  759  sudo ufw delete allow 'Apache'
+  760  sudo ufw status
+  761  sudo a2enmod ssl
+  762  sudo a2enmod headers
+  763  sudo a2ensite example.com.conf
+  764  sudo a2enconf ssl-params
+  765  sudo apache2ctl configtest
+  766  sudo systemctl restart apache2
+  767  sudo vim /etc/apache2/conf-available/ssl-params.conf
+  768  sudo systemctl restart apache2
+  769  [Mon Aug 24 17:30:29.230462 2020] [ssl:emerg] [pid 28980] AH02565: Certificate and private key training.localhost.com:443:0 from /etc/ssl/certs/apache-selfsigned.crt and /etc/ssl/private/apache-selfsigned.key do not match
+  770  ls /etc/ssl/certs/apache-selfsigned.crt 
+  771  cat /etc/ssl/certs/apache-selfsigned.crt 
+  772  ls /etc/ssl/private/
+  773  sudo ls /etc/ssl/private/
+  774  sudo systemctl restart apache2
+  775  sudo vim example.com.conf
+  776  sudo systemctl restart apache2
+  777  sudo vim example.com.conf
+  778  journalctl -xe
+  779  sudo systemctl restart apache2
+  780  sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/apache-selfsigned.key -out /etc/ssl/certs/apache-selfsigned.crt
+  781  sudo nano /etc/apache2/conf-available/ssl-params.conf
+  782  sudo vim /etc/apache2/conf-available/ssl-params.conf
+  783  sudo cp /etc/apache2/sites-available/default-ssl.conf /etc/apache2/sites-available/default-ssl.conf.bak
+  784  sudo vim /etc/apache2/conf-available/ssl-params.conf
+  785  sudo tail -f /var/log/apache2/access.log
+  786  sudo nano /etc/apache2/sites-available/default-ssl.conf
+  787  cd /etc/apache2/sites-available
+  788  ls
+  789  sudo mv default-ssl.confback default-ssl.conf
+  790  sudo nano default-ssl.conf
+  791  sudo service apache2 restart
+  792  cd
+  793  sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/training.key -out /etc/ssl/certs/training.crt
+  794  sudo nano /etc/apache2/sites-available/default-ssl.conf
+  795  sudo ufw app list
+  796  sudo ufw status
+  797  sudo a2enmod ssl
+  798  sudo a2enmod headers
+  799  sudo a2ensite default-ssl
+  800  sudo a2enconf ssl-params
+  801  sudo apache2ctl configtest
+  802  sudo systemctl restart apache2
+  803  sudo nano /etc/apache2/sites-available/000-default.conf 
+  804  sudo systemctl restart apache2
+  805  php in.php
+  806  cd
+  807  mv /home/anto/vendor Public/training/Dari/
+  808  composer require facebook/graph-sdk
+  809  mysql -u root -p
+  810  php in.php
+  811  clear
+  812  php in.php
+  813  php login.php
+  814  php in.php
+  815  php login.php
+  816  clear
+  817  php login.php'
+  818  clear
+  819  php login.php
+  820  php in.php
+  821  php login.php
+  822  php in.php
+  823  clear
+  824  php in.php
+  825  clear
+  826  php in.php
+  827  clear
+  828  php in.php
+  829  php callback.php
+  830  php user.php
+  831  clear
+  832  php user.php
+  833  clear
+  834  php user.php
+  835  php callback.php
+  836  php user.php
+  837  php callback.php
+  838  php user.php
+  839  php login.php
+  840  php callback.php
+  841  php phpscript2.php 
+  842  clear
+  843  php phpscript2.php 
+  844  php phpscript3.php
+  845  php phpscript2.php 
+  846  clear
+  847  php phpscript2.php 
+  848  clear
+  849  php phpscript2.php 
+  850  php phpscript3.php 
+  851  clear
+  852  php phpscript4.php 
+  853  clear
+  854  php phpscript5.php 
+  855  clear
+  856  php phpscript5.php 
+  857  clear
+  858  php phpscrip3.php 
+  859  php phpscript3.php 
+  860  clear
+  861  php phpscript6.php 
+  862  clear
+  863  php phpscript6.php 
+  864  clear
+  865  php phpscript6.php 
+  866  clear
+  867  php phpscript6.php 
+  868  clear
+  869  php phpscript6.php 
+  870  clear
+  871  php phpscript6.php 
+  872  clear
+  873  php phpscript6.php 
+  874  clear
+  875  php phpscript6.php 
+  876  clear
+  877  php phpscript6.php 
+  878  clear
+  879  php phpscript6.php 
+  880  clear
+  881  php phpscript6.php 
+  882  clear
+  883  php phpscript6.php 
+  884  clear
+  885  php phpscript6.php 
+  886  clear
+  887  php phpscript6.php 
+  888  clear
+  889  php phpscript6.php 
+  890  clear
+  891  php phpscript6.php 
+  892  clear
+  893  php phpscript6.php 
+  894  clear
+  895  php phpscript6.php 
+  896  clear
+  897  php phpscript6.php 
+  898  clear
+  899  php phpscript6.php 
+  900  clear
+  901  php phpscript6.php 
+  902  clear
+  903  php phpscript6.php 
+  904  clear
+  905  php phpscript6.php 
+  906  clear
+  907  php phpscript6.php 
+  908  clear
+  909  php phpscript6.php 
+  910  clear
+  911  php phpscript6.php 
+  912  clear
+  913  php phpscript6.php 
+  914  clear
+  915  php phpscript6.php 
+  916  clear
+  917  php phpscript6.php 
+  918  clear
+  919  php phpscript6.php 
+  920  clear
+  921  php phpscript6.php 
+  922  clear
+  923  php phpscript6.php 
+  924  clear
+  925  php phpscript6.php 
+  926  clear
+  927  php phpscript6.php 
+  928  clear
+  929  php phpscript6.php 
+  930  clear
+  931  php phpscript6.php 
+  932  clear
+  933  php phpscript6.php 
+  934  clear
+  935  php phpscript6.php 
+  936  clear
+  937  php phpscript6.php 
+  938  clear
+  939  php phpscript6.php 
+  940  clear
+  941  php phpscript6.php 
+  942  clear
+  943  php phpscript6.php 
+  944  clear
+  945  php phpscript6.php 
+  946  clear
+  947  php phpscript6.php 
+  948  clear
+  949  php phpscript6.php 
+  950  clear
+  951  php phpscript6.php 
+  952  clear
+  953  php phpscript6.php 
+  954  clear
+  955  php phpscript6.php 
+  956  clear
+  957  php phpscript6.php 
+  958  clear
+  959  php phpscript6.php 
+  960  clear
+  961  php phpscript6.php 
+  962  clear
+  963  php phpscript6.php 
+  964  clear
+  965  php phpscript6.php 
+  966  clear
+  967  php phpscript6.php 
+  968  clear
+  969  php phpscript6.php 
+  970  clear
+  971  php phpscript6.php 
+  972  clear
+  973  php phpscript6.php 
+  974  clear
+  975  php phpscript6.php 
+  976  clear
+  977  php phpscript6.php 
+  978  clear
+  979  php phpscript6.php 
+  980  clear
+  981  php phpscript6.php 
+  982  clear
+  983  php phpscript6.php 
+  984  clear
+  985  php phpscript6.php 
+  986  clear
+  987  php phpscript6.php 
+  988  clear
+  989  php phpscript6.php 
+  990  clear
+  991  php phpscript7.php 
+  992  clear
+  993  php phpscript7.php 
+  994  <?php
+  995  //// Define Total Lines of the Pyramid
+  996  $total_lines = 10;
+  997  //// Define a Base Array
+  998  $base_arr = array(1,1);
+  999  //// PRINT LINE 1
+ 1000  pri_nt(1);
+ 1001  //// PRINT LINE 2
+ 1002  pri_nt(2, $base_arr);
+ 1003  //// Main LOOP to print from Line 3 onwards
+ 1004  for($i=3;$i<=$total_lines-2;$i++)
+ 1005  {   //// CREATE ARRAY;   $arr = range(1,$i);
+ 1006  clear
+ 1007  php phpscript7.php 
+ 1008  php phpscript8.php 
+ 1009  clear
+ 1010  php phpscript11.php 
+ 1011  clear
+ 1012  php phpscript11.php 
+ 1013  php phpscript9.php 
+ 1014  clear
+ 1015  php phpscript10.php 
+ 1016  clear
+ 1017  php phpscript10.php 
+ 1018  clear
+ 1019  php phpscript9.php 
+ 1020  clear
+ 1021  php phpscript1.php
+ 1022  clear
+ 1023  php phpscript1.php
+ 1024  clear
+ 1025  php phpscript1.php
+ 1026  clear
+ 1027  php phpscript1.php
+ 1028  clear
+ 1029  php phpscript1.php
+ 1030  clear
+ 1031  php phpscript13.php
+ 1032  clear
+ 1033  php php.php
+ 1034  clear
+ 1035  php php.php
+ 1036  clear
+ 1037  php php.php
+ 1038  clear
+ 1039  php php.php
+ 1040  clear
+ 1041  php php.php
+ 1042  clear
+ 1043  php php.php
+ 1044  clear
+ 1045  php php.php
+ 1046  clear
+ 1047  php php.php
+ 1048  clear
+ 1049  php php.php
+ 1050  clear
+ 1051  php php.php
+ 1052  clear
+ 1053  php php.php
+ 1054  clear
+ 1055  php phpscript7.php
+ 1056  clear
+ 1057  php phpscript7.php
+ 1058  clear
+ 1059  php php.php
+ 1060  clear
+ 1061  php php.php
+ 1062  clear
+ 1063  php php.php
+ 1064  clear
+ 1065  php php.php
+ 1066  clear
+ 1067  php php.php
+ 1068  clear
+ 1069  php php.php
+ 1070  clear
+ 1071  php php.php
+ 1072  clear
+ 1073  php php.php
+ 1074  clear
+ 1075  php php.php
+ 1076  clear
+ 1077  php php.php
+ 1078  clear
+ 1079  php php.php
+ 1080  clear
+ 1081  php php.php
+ 1082  clear
+ 1083  php php.php
+ 1084  clear
+ 1085  php php.php
+ 1086  php phpscript7.php
+ 1087  clear
+ 1088  php phpscript7.php
+ 1089  clear
+ 1090  php phpscript14.php
+ 1091  clear
+ 1092  php phpscript14.php
+ 1093  clear
+ 1094  php phpscript15.php
+ 1095  clear
+ 1096  php phpscript15.php
+ 1097  clear
+ 1098  php phpscript16.php
+ 1099  clear
+ 1100  php phpscript16.php
+ 1101  clear
+ 1102  php phpscript16.php
+ 1103  clear
+ 1104  php phpscript16.php
+ 1105  clear
+ 1106  php phpscript16.php
+ 1107  clear
+ 1108  php phpscript16.php
+ 1109  clear
+ 1110  php phpscript16.php
+ 1111  clear
+ 1112  php phpscript16.php
+ 1113  clear
+ 1114  php phpscript16.php
+ 1115  clear
+ 1116  php phpscript16.php
+ 1117  clear
+ 1118  php phpscript16.php
+ 1119  clear
+ 1120  php phpscript17.php
+ 1121  clear
+ 1122  php phpscript15.php
+ 1123  php phpscript17.php
+ 1124  clear
+ 1125  php phpscript17.php
+ 1126  clear
+ 1127  php phpscript17.php
+ 1128  clear
+ 1129  php phpscript17.php
+ 1130  php phpscript18.php
+ 1131  php phpscript16.php
+ 1132  php phpscript15.php
+ 1133  php phpscript16.php
+ 1134  clear
+ 1135  php phpscript16.php
+ 1136  clear
+ 1137  php phpscript16.php
+ 1138  clear
+ 1139  php phpscript16.php
+ 1140  clear
+ 1141  php phpscript16.php
+ 1142  clear
+ 1143  php phpscript16.php
+ 1144  clear
+ 1145  php phpscript16.php
+ 1146  clear
+ 1147  php phpscript16.php
+ 1148  clear
+ 1149  php phpscript19.php
+ 1150  clear
+ 1151  php phpscript6.php
+ 1152  clear
+ 1153  php phpscript16.php
+ 1154  php phpscript14.php 
+ 1155  php phpscript15.php 
+ 1156  php phpscript7.php 
+ 1157  php phpscript9.php 
+ 1158  clear
+ 1159  php phpscript7.php 
+ 1160  clear
+ 1161  php phpscript7.php 
+ 1162  clear
+ 1163  php phpscript7.php 
+ 1164  clear
+ 1165  php phpscript7.php 
+ 1166  php phpscript7.php 
+ 1167  php phpscript12.php 
+ 1168  php phpscript24.php 
+ 1169  php phpscript12.php 
+ 1170  cat php-twitter-text-formatter/
+ 1171  cd php-twitter-text-formatter/
+ 1172  php example.php 
+ 1173  php phpscript25.php 
+ 1174  php phpscript26.php 
+ 1175  CLEAR
+ 1176  clear
+ 1177  php phpscript26.php 
+ 1178  clear
+ 1179  php phpscript26.php 
+ 1180  ip addr show
+ 1181  clear
+ 1182  php phpscript26.php 
+ 1183  clear
+ 1184  php phpscript26.php 
+ 1185  composer require j7mbo/twitter-api-php
+ 1186  php phpscript26.php 
+ 1187  clear
+ 1188  php phpscript27.php 
+ 1189  clear
+ 1190  php phpscript27.php 
+ 1191  clear
+ 1192  php phpscript27.php 
+ 1193  clear
+ 1194  php phpscript27.php 
+ 1195  php phpscript28.php 
+ 1196  clear
+ 1197  php phpscript28.php 
+ 1198  php phpscript29.php 
+ 1199  php phpscript28.php 
+ 1200  clear
+ 1201  php phpscript30.php 
+ 1202  php phpscript31.php 
+ 1203  clear
+ 1204  php phpscript25.php 
+ 1205  php phpscript31.php 
+ 1206  4
+ 1207  clear
+ 1208  history
+ 1209  history > history.txt
